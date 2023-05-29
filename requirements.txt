@@ -1,0 +1,4 @@
+mdtraj
+nglview
+numpy
+matplotlib

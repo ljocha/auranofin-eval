@@ -1,0 +1,34 @@
+# This file was created Mon May 29 09:03:20 2023
+# Created by:
+#                  :-) GROMACS - gmx energy, 2021-MODIFIED (-:
+# 
+# Executable:   /gromacs/SSE2/bin/gmx
+# Data prefix:  /gromacs/SSE2
+# Working dir:  /tmp/gaff/outCluster11
+# Command line:
+#   gmx energy -f rerun.edr -o rerun.xvg
+# gmx energy is part of G R O M A C S:
+#
+# GROningen MAchine for Chemical Simulation
+#
+@    title "GROMACS Energies"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "(kJ/mol)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Potential"
+  134.000000  2178.221924
+  262.000000  2166.656738
+  390.000000  2163.566650
+  517.000000  2162.080322
+  644.000000  2161.227295
+  771.000000  2160.689209
+  897.000000  2160.304199
+ 1025.000000  2160.049316
+ 1150.000000  2159.839844
+ 1162.000000  2159.809570
