@@ -2,3 +2,4 @@ ipywidgets<8
 mdtraj
 nglview
 matplotlib
+numpy
