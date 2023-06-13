@@ -1,0 +1,45 @@
+# This file was created Mon Jun 12 08:15:24 2023
+# Created by:
+#                  :-) GROMACS - gmx energy, 2021-MODIFIED (-:
+# 
+# Executable:   /gromacs/SSE2/bin/gmx
+# Data prefix:  /gromacs/SSE2
+# Working dir:  /tmp/gaff/outCluster13
+# Command line:
+#   gmx energy -f rerun.edr -o rerun.xvg
+# gmx energy is part of G R O M A C S:
+#
+# Good ROcking Metal Altar for Chronical Sinners
+#
+@    title "GROMACS Energies"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "(kJ/mol)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Potential"
+  134.000000  2390.440918
+  262.000000  2380.816406
+  389.000000  2377.361328
+  516.000000  2375.126221
+  642.000000  2373.631592
+  769.000000  2372.526611
+  896.000000  2371.640381
+ 1023.000000  2370.948730
+ 1149.000000  2370.300049
+ 1276.000000  2369.766602
+ 1402.000000  2369.259033
+ 1529.000000  2368.826904
+ 1655.000000  2368.446533
+ 1781.000000  2368.129150
+ 1908.000000  2367.867676
+ 2034.000000  2367.658447
+ 2160.000000  2367.468262
+ 2287.000000  2367.290283
+ 2414.000000  2367.093262
+ 2540.000000  2366.865967
+ 2578.000000  2366.806885

@@ -1,15 +1,15 @@
-# This file was created Mon Jun 12 08:20:54 2023
+# This file was created Mon Jun 12 08:18:11 2023
 # Created by:
 #                  :-) GROMACS - gmx energy, 2021-MODIFIED (-:
 # 
 # Executable:   /gromacs/SSE2/bin/gmx
 # Data prefix:  /gromacs/SSE2
-# Working dir:  /tmp/gaff/outCluster20
+# Working dir:  /tmp/gaff/outCluster5
 # Command line:
 #   gmx energy -f rerun.edr -o rerun.xvg
 # gmx energy is part of G R O M A C S:
 #
-# Grunge ROck MAChoS
+# GROup of MAchos and Cynical Suckers
 #
 @    title "GROMACS Energies"
 @    xaxis  label "Time (ps)"
@@ -22,7 +22,15 @@
 @ legend 0.78, 0.8
 @ legend length 2
 @ s0 legend "Potential"
-  136.000000  2254.462891
-  265.000000  2253.004883
-  393.000000  2252.654297
-  492.000000  2252.479980
+  132.000000  1108.199707
+  257.000000  1040.061523
+  384.000000  986.521301
+  511.000000  950.140503
+  638.000000  925.929443
+  765.000000  907.534119
+  893.000000  901.093445
+ 1021.000000  899.828308
+ 1149.000000  899.386841
+ 1276.000000  899.167664
+ 1403.000000  899.040344
+ 1466.000000  898.998535
